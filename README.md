@@ -1,6 +1,6 @@
 # Python-Projects
 
-Python
+Menu management system using - Python
 
 JSON- storage format
 
