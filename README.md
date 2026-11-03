@@ -6,7 +6,6 @@ We can add, view, search, update, hide, show and delete menu items
 
 JSON- storage format
 
-
 Classes and Objects
 
 
