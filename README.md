@@ -10,9 +10,6 @@ JSON- storage format
 Classes and Objects
 
 
-python Functions
-
-
 File Handling (JSON)
 
 
