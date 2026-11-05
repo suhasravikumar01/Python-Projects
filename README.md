@@ -8,11 +8,9 @@ JSON- storage format
 
 Classes and Objects
 
-
 File Handling (JSON)
 
-
-Exception Handling
+Exception 
 
 
 Loops and Conditional Statements
