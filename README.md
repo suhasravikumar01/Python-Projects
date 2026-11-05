@@ -10,7 +10,6 @@ Classes and Objects
 
 File Handling (JSON)
 
-Exception 
-
+Exception Handling
 
 Loops and Conditional Statements
